@@ -55,6 +55,7 @@ Agriculture, FoodTech & Rural Development
 
 <p>The feasibility of the missed call-activated drone-based Smart Crop Advisory System is supported by the growing technological advances and increased accessibility of drones in agriculture. Drones today are equipped with sophisticated soil sensors, multispectral cameras, and environmental monitors, enabling detailed and precise data collection remotely. The low-cost activation method via missed call makes this technology accessible to farmers without smartphones or internet, overcoming a significant barrier in rural and resource-constrained settings. Additionally, cloud computing and AI provide scalable and efficient processing of the vast data received, ensuring quick turnaround for personalized advisory generation.
 From a viability perspective, this approach aligns well with current trends in precision agriculture and government initiatives supporting drone usage in farming. The cost savings from reduced manual labor, optimized use of fertilizers, and better pest and water management contribute to increased farm productivity and profitability, making it economically sustainable. Furthermore, providing advisories in local languages through voice calls and SMS enhances user adoption and impact. With state-level drone policies and existing pilot projects demonstrating benefits, this system has strong potential for implementation and scaling among small and marginal farmers, ultimately improving their livelihoods and farming sustainability.</p>
+
 ## Impact and Benefits
 
 <ul>
