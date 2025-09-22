@@ -58,7 +58,7 @@ From a viability perspective, this approach aligns well with current trends in p
 ## Impact and Benefits
 
 <ul>
-  <li>Increased Accessibility: Farmers with basic mobile phones can access advanced crop advisory simply by giving a missed call, overcoming smartphone and internet barriers.</li>l
+  <li>Increased Accessibility: Farmers with basic mobile phones can access advanced crop advisory simply by giving a missed call, overcoming smartphone and internet barriers.</li>
 
 <li>Precision Agriculture: Drone-collected real-time soil, crop, and weather data enable highly accurate and location-specific recommendations, improving fertilizer and pesticide application efficiency.</li>
 
