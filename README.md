@@ -70,9 +70,7 @@ From a viability perspective, this approach aligns well with current trends in p
 
 <li>Environmental Sustainability: Precise and reduced use of chemicals and water minimizes environmental impact through less runoff, contamination, and resource wastage.</li>
 </ul>
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+
 
 ## Research and References
 
